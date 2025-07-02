@@ -319,6 +319,9 @@ body {
   text-decoration: none;
   color: red;
 }
+.links a:hover{
+    color: white;
+}
 .links a span {
   color: white;
 }
